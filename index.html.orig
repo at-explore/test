@@ -26,10 +26,10 @@
   
 
 <<<<<<< HEAD
-	This is local
+	This is remote
 =======
-	This is remote still
->>>>>>> 98d747331651e169b4442382007e68897b780f11
+	This is local still
+>>>>>>> message
 
 
 	<script src="http://ajax.googleapis.com/ajax/libs/angularjs/1.3.14/angular.min.js"></script>
